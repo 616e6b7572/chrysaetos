@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/616e6b7572/chrysaetos/issues"
   },
-  "homepage": "https://github.com/616e6b7572/chrysaetos#readme"
+  "homepage": "https://github.com/616e6b7572/chrysaetos#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "laravel-elixir": "^6.0.0-18"
+  }
 }
