@@ -1,0 +1,23 @@
+{
+  "name": "chrysaetos",
+  "version": "1.0.0",
+  "description": "An event based javascript engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/616e6b7572/chrysaetos.git"
+  },
+  "keywords": [
+    "engine",
+    "js"
+  ],
+  "author": "616e6b7572",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/616e6b7572/chrysaetos/issues"
+  },
+  "homepage": "https://github.com/616e6b7572/chrysaetos#readme"
+}
